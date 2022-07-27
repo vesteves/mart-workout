@@ -6,41 +6,9 @@ exports[`<Workout /> test suite should match to snapshot 1`] = `
     class="sc-hKMtZM iOJXuY"
   >
     <div
-      class="sc-gsnTZi sc-eCYdqJ kPWacB"
+      class="sc-evZas YoHPx"
     >
-      <img
-        alt=""
-        class="sc-jSMfEi fFfgWV"
-      />
-      <h1
-        class="sc-gKXOVf dGTZIr"
-      />
-      <h3
-        class="sc-iBkjds cnjgHR"
-      />
-      <p
-        class="sc-ftvSup igKBGa"
-      >
-        Duration: 
-      </p>
-      <p
-        class="sc-papXJ eTZEWr"
-      >
-        Impact:
-         
-        <span
-          class="sc-jqUVSM fJpjMg"
-        />
-      </p>
-      <p
-        class="sc-kDDrLX cNjBYx"
-      >
-        Level:
-         
-        <span
-          class="sc-iqcoie fRcVmS"
-        />
-      </p>
+      loading...
     </div>
   </div>
 </div>

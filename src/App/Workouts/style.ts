@@ -24,3 +24,9 @@ export const Title = styled.p``;
 export const Level = styled.p``;
 
 export const LevelTag = styled(LevelTagWorkout)``;
+
+export const Loading = styled.div`
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+`;

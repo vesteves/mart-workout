@@ -3,11 +3,13 @@
 exports[`<Workout /> test suite should match to snapshot 1`] = `
 <div>
   <div
-    class="sc-hKMtZM sc-evZas iOJXuY"
+    class="sc-hKMtZM sc-breuTD iOJXuY"
   >
     <div
-      class="sc-gsnTZi sc-breuTD kPWacB"
-    />
+      class="sc-dIouRR cWPGZB"
+    >
+      loading...
+    </div>
   </div>
 </div>
 `;

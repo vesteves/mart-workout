@@ -75,3 +75,9 @@ export const Video = styled.video`
   max-width: 80vw;
   height: auto;
 `;
+
+export const Loading = styled.div`
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+`;
