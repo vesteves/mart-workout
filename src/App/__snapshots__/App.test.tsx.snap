@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match to snapshot 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ beJljN"
+  >
+    <div
+      class="sc-gsnTZi kPWacB"
+    >
+      <div>
+        <a
+          class="sc-dkzDqf cNwmzd"
+          href="/"
+        >
+          Home
+        </a>
+      </div>
+      <div>
+        <a
+          class="sc-dkzDqf cNwmzd"
+          href="/workouts"
+        >
+          Workouts
+        </a>
+      </div>
+      <hr />
+    </div>
+    <div
+      class="sc-idiyUo jDyUpd"
+    >
+      <div
+        class="sc-gsnTZi sc-dIouRR kPWacB"
+      >
+        <h2>
+          Home
+        </h2>
+        <p>
+          Developer: Vitor Esteves
+        </p>
+        <p>
+          Status: Ready to be hired!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

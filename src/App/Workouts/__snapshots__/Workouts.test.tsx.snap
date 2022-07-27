@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Workout /> test suite should match to snapshot 1`] = `
+<div>
+  <div
+    class="sc-hKMtZM sc-evZas iOJXuY"
+  >
+    <div
+      class="sc-gsnTZi sc-breuTD kPWacB"
+    />
+  </div>
+</div>
+`;
